@@ -6,7 +6,7 @@ import time
 from threading import Thread
 from os import listdir
 from utils import people_list, FreshestFrame
-from Confidential import USERNAME, PASSWORD, IP_ADRESS
+from confidential import USERNAME, PASSWORD, IP_ADRESS
 from bot import send_image
 
 def look_for_unknown_faces(face_names, frame):

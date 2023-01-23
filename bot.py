@@ -1,5 +1,5 @@
 from discord_webhook import DiscordWebhook, DiscordEmbed
-from Confidential import TOKEN, WEBHOOK_URL
+from confidential import TOKEN, WEBHOOK_URL
 from datetime import datetime
 
 def send_image(image: str, number: int) -> None:
