@@ -1,8 +1,5 @@
 # Detecting faces using face_recognition and OpenCV
 
-## Installing
-Soon to come
-
 ## Usage
 1. Create a file where you can store the names of the people you want to recognize in a list.
 
